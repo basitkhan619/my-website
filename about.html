@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About MonetizeYourSkills</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>About MonetizeYourSkills</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Our Mission</h2>
+      <p>At MonetizeYourSkills, we empower individuals to transform their passions into income. Our courses are designed to help you unlock your potential and start earning from what you know.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 MonetizeYourSkills. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
