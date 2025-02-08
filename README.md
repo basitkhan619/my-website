@@ -3,32 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Course Selling Website</title>
+  <title>MonetizeYourSkills - Home</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Welcome to My Course Selling Website</h1>
+    <h1>Welcome to MonetizeYourSkills</h1>
     <nav>
       <ul>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About</a></li>
-        <li><a href="#">Courses</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
       </ul>
     </nav>
   </header>
 
   <main>
-    <section>
-      <h2>Our Top Courses</h2>
-      <p>Learn skills that will help you earn money and succeed in life.</p>
-      <button>Explore Courses</button>
+    <section class="hero">
+      <h2>Turn Your Skills Into Income</h2>
+      <p>Discover the best courses to help you monetize your skills and achieve financial freedom.</p>
+      <button><a href="about.html">Explore Courses</a></button>
     </section>
   </main>
 
   <footer>
-    <p>&copy; 2025 My Course Website. All Rights Reserved.</p>
+    <p>&copy; 2025 MonetizeYourSkills. All Rights Reserved.</p>
   </footer>
 </body>
 </html>
